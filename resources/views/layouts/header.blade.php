@@ -69,7 +69,7 @@
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <a href="#" class="site_title"><i class="fa fa-paw"></i> <span>Miray Geek!</span></a>
+              <a href="#" class="site_title"><i class="fa fa-paw"></i> <span>HOTEL!</span></a>
             </div>
 
             <div class="clearfix"></div>
@@ -213,7 +213,7 @@
          <!-- footer content -->
          <footer>
           <div class="pull-right">
-            Gestion hotelerie realisé par <a href="https://colorlib.com"> Mr Finaritra</a>
+            Gestion hotelerie realisé par <a href="#"> Mr Finaritra</a>
           </div>
           <div class="clearfix"></div>
         </footer>
